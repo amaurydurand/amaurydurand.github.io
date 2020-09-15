@@ -6,7 +6,7 @@ excerpt:
 date: 2020-07-06
 venue: 'Preprint'
 paperurl: 'https://hal.telecom-paris.fr/hal-02318267v3'
-citation: ''
+citation: 
 ---
 This papers aims at clarifying the construction of a spectral theory for weakly stationary processes valued in a separable Hilbert space. 
 
